@@ -10,7 +10,7 @@ public class LowLevelDesignTemplateApplication {
 
 		SpringApplication.run(LowLevelDesignTemplateApplication.class, args);
 
-		System.out.println("BOOOM....... LLD Application Started");
+		System.out.println("BOOOM.. LLD Application Started");
 	}
 
 }
