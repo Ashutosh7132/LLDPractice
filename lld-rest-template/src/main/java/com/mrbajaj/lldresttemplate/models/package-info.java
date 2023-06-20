@@ -1,0 +1,1 @@
+package com.mrbajaj.lldresttemplate.models;
