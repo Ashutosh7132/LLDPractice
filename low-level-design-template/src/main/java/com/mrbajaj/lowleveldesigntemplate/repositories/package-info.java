@@ -3,4 +3,4 @@
  *
  * @author Mayur
  */
-package com.mrbajaj.lowleveldesigntemplate.repository;
+package com.mrbajaj.lowleveldesigntemplate.repositories;

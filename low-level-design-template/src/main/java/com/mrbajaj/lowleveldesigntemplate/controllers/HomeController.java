@@ -1,4 +1,4 @@
-package com.mrbajaj.lowleveldesigntemplate.controller;
+package com.mrbajaj.lowleveldesigntemplate.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

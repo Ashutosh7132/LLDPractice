@@ -1,1 +1,0 @@
-package com.mrbajaj.lowleveldesigntemplate.model;
